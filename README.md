@@ -13,6 +13,7 @@
 **注意**,下一步选择支付方式, 因为我是在sg, 所以支付方式里面有个**None**选项, 如果是在大陆的话, 打开你的小火箭, 全局路由那里选择**代理**. 其实什么 ip 都可以,都不影响, 小火箭改了以后记得刷新一下apple account 界面
 <img src="assets/订阅步骤/image-1.png" width="400">
 然后记得选**None**
+
 <img src="assets/README/b912b7d2c44559f419ff42e5eeb2318c.png" width="400">
 3. 地址, 截图让 ai 给你生成一个土耳其地址, 我这第一次说错了
 <img src="assets/README/image.png" width="400">
