@@ -13,7 +13,7 @@
 **注意**,下一步选择支付方式, 因为我是在sg, 所以支付方式里面有个**None**选项, 如果是在大陆的话, 打开你的小火箭, 全局路由那里选择**代理**. 其实什么 ip 都可以,都不影响, 小火箭改了以后记得刷新一下apple account 界面
 ![alt text](assets/订阅步骤/image-1.png)
 3. 地址, 截图让 ai 给你生成一个土耳其地址, 我这第一次说错了
-![alt text](assets/订阅步骤/384f82d5d1c6ce433408968da8d850c8.png)
+![alt text](assets/README/image.png)
 4. 然后这个 apple 账户就 ok 了, 这一步基本上 80% 就 OK 了. 不要着急登录 apple 账户
 ## 购买土耳其区apple礼品卡
 - 方式一: 一个网站,https://www.oyunfor.com, 但需要国外银行卡, 有兴趣可以探索一下, 不过也需要手续费, 推荐第二种
