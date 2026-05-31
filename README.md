@@ -8,7 +8,7 @@
 
 1. 打开[苹果账户](https://account.apple.com/), 正常使用邮箱和大陆手机号注册就行, 不用想国外的有的没的
 2. 修改地区+支付方式->选择**None**
-![alt text](assets/订阅步骤/image.png =300x200)
+![alt text](assets/订阅步骤/image.png)
 选择这里地区, 然后选择土耳其.  
 **注意**,下一步选择支付方式, 因为我是在sg, 所以支付方式里面有个**None**选项, 如果是在大陆的话, 打开你的小火箭, 全局路由那里选择**代理**. 其实什么 ip 都可以,都不影响, 小火箭改了以后记得刷新一下apple account 界面
 ![alt text](assets/订阅步骤/image-1.png)
