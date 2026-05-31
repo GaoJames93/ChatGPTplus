@@ -15,6 +15,7 @@
 3. 地址, 截图让 ai 给你生成一个土耳其地址, 我这第一次说错了
 <img src="assets/README/image.png" width="400">
 4. 然后这个 apple 账户就 ok 了, 这一步基本上 80% 就 OK 了. 不要着急登录 apple 账户
+
 ## 购买土耳其区apple礼品卡
 - 方式一: 一个网站,https://www.oyunfor.com, 但需要国外银行卡, 有兴趣可以探索一下, 不过也需要手续费, 推荐第二种
 - 方式二: xian🐟, 直接搜土耳其 ChatGPT plus礼品卡啥的都行, 他会给你发卡码<img src="assets/订阅步骤/79e40fc1c1ebe9f1c535da796f9cc5aa.jpg" width="400">
